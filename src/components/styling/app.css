@@ -1,0 +1,31 @@
+.container {
+  width: 900px;
+  height: 300px;
+  position: absolute;
+  left: 60%;
+  top: 60%;
+  transform: translate(-60%, -60%);
+  align-content: center;
+ text-align: center;
+ opacity: 1.5;
+ color: black;
+}
+.m {
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+}
+.img1 {
+    float: left;
+}
+.img2 {
+  float: left;
+   justify-Content: 'center';
+  
+}
+.img3 {
+  float: right;
+}
+.nAv {
+  color: white;
+}
