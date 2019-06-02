@@ -4,6 +4,7 @@ import {  Col, Row } from 'antd';
 
 const CheckboxGroup = Checkbox.Group;
 class Q extends React.Component {
+    
     render(){
         function onChange(checkedValues) {
             console.log('checked = ', checkedValues);
